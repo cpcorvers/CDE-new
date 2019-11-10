@@ -1,7 +1,10 @@
 # {{ site. }}
 
-url: https://innovatiebijdefensie.nl
-baseurl: /CDnE-jekyll-theme-gh-pages/
+# url: https://innovatiebijdefensie.nl
+# baseurl: /CDnE-jekyll-theme-gh-pages/
+
+url: https://github.com/cpcorvers/CDE-new
+baseurl: https://github.com/cpcorvers/CDE-new
 
 # Site settings
 title: Innovatie bij Defensie
