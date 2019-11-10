@@ -1,0 +1,20 @@
+---
+title: Ijsbad te velde
+subtitle: Middel voor aggressieve koeling
+layout: default
+modal-id: 1
+date: 2019-11-01
+closing-date: 31 december 2019
+img: ijsbad.jpeg
+thumbnail: ijsbad.jpeg
+alt: Aggresieve koeling
+project-date: Q1 2020
+client: TGTF
+category: Middelgedreven innovatie
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+challenge: Tijdens de  opleiding komen de militairen in opleiding in aanraking met Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+participation: Elke inzending ontvangt feedback van experts over de toepasbaarheid van het ingestuurde prototype binnen de militaire context. <br><br>Voor de geselecteerde inzendingen stelt Defensie een budget beschikbaar als tegemoetkoming in de kosten voor de productie van een demonstrator. Deze geselecteerde inzendingen maken kans om door Defensie begeleid te worden in een zogenaamde experimenteeromgeving om de demonstrator verder te verbeteren.<br><br>Defensie blijft investeren in het verbeteren van de veiligheid en kwaliteit, door onder andere het verbeteren van de 'Eerste hulp bij hitteletsel'.<br><br>Een demonstrator maakt kans om op grotere schaal binnen Defensie, maar mogelijk ook bij buitenlandse Defensiepartners en hulpverleners te worden toegepast.
+timeline: De uitvraag staat open tot 01 januari 2020 gevolgd door een selectie in januri 2020. De eerste experimenten vinden plaats tijdens opleidingstrajecten in mei en juni 2020.
+criteria: Draagbaar tijdens de marstraining door de militair in opleiding, binnen enkele minuten operationeel en koelt dan minimaal enkele graden Celcius van de kerntempertuur van de oververhitte militair in opleiding.
+tenderned: https://www.tenderned.nl/
+---

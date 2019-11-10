@@ -1,0 +1,75 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+ <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-content">
+     <div class="close-modal" data-dismiss="modal">
+       <div class="lr">
+         <div class="rl">
+         </div>
+       </div>
+     </div>
+     <div class="container">
+       <!-- <div class="row"> -->
+       <div class="col-lg-8 col-lg-offset-2">
+         <div class="row">
+           <div class="modal-body">
+             <h2>{{ post.title }}</h2>
+             <p>{{ post.subtitle }}</p>
+             <h5>Sluitingsdatum: {{ post.closing-date }}</h5>
+             <h5>TenderNed link: <a href="{{ post.tenderned }}" target="_blank">{{ post.tenderned }}</a></h5>
+             <hr class="star-primary">
+             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+           </div>
+         </div>
+         <div class="row bg-light-gray">
+           <h4 class="bg-gray">Beschrijving</h4>
+           <p class="large modalscontent">{{ post.description }}</p>
+         </div>
+
+         <div class="row">
+           <h4>Uitdaging</h4>
+           <p class="large modalscontent">{{ post.challenge }}</p>
+         </div>
+
+         <div class="row bg-light-gray">
+           <h4>Waarom meedoen?</h4>
+           <p class="large modalscontent">{{ post.participation }}</p>
+         </div>
+
+         <div class="row">
+           <h4>Tijdslijn</h4>
+           <p class="large modalscontent">{{ post.timeline }}</p>
+         </div>
+
+         <div class="row bg-light-gray">
+           <h4>Criteria</h4>
+           <p class="large modalscontent">{{ post.criteria }}</p>
+         </div>
+
+         <div class="row ">
+           <h4>Betrokken partijen</h4>
+           <p class="large">{{ post.client }}</p>
+         </div>
+       </div>
+     </div>
+     <!-- <ul class="list-inline item-details">
+       <li>Client:
+         <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+         </strong>
+       </li>
+       <li>Date:
+         <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+         </strong>
+       </li>
+       <li>Service:
+         <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+         </strong>
+       </li>
+     </ul> -->
+     <br>
+     <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+   </div>
+ </div>
+ </div>
+
+ {% endfor %}

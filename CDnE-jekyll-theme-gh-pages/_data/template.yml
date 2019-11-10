@@ -1,0 +1,28 @@
+# {{ site.data.template. }}
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ff6000 #ff6000 #fed136
+  secondary: ff6000 #fec503
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"PT serif", serif'
+  # brand: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  brand: '"PT sans", sans-serif'
+  # secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  #brand-old: ''"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive'
+
+# Site content
+images:
+  # logo:         'img/logos/devakmakerij.png'
+  background:     'img/websiteCDnE.gif' #'img/CdeWebsite-bg.png'
+intro:
+  lead-in: "Concept Development & Experimentation"
+  # heading: "It's Nice To Meet You"
+  # lead-in: "Innovatie bij Defensie"
+  # heading: "Concept Development & Experimentation"
+  heading-text: " "
