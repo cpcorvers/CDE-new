@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovatie bij Defensie</title>
+    <description>Concept Development &amp; Experimentation is een manier waarop de Koninklijke Landmacht invulling geeft aan kort cyclische modernisering in haar optreden en organisatie.</description>
+    <link>http://localhost:4000/CDnE-jekyll-theme-gh-pages//</link>
+    <atom:link href="http://localhost:4000/CDnE-jekyll-theme-gh-pages//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 10 Nov 2019 14:06:09 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Nov 2019 14:06:09 +0100</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Ijsbad te velde</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/CDnE-jekyll-theme-gh-pages//middelgedreven%20innovatie/2019/11/01/ijsbad/</link>
+        <guid isPermaLink="true">http://localhost:4000/CDnE-jekyll-theme-gh-pages//middelgedreven%20innovatie/2019/11/01/ijsbad/</guid>
+        
+        
+        <category>Middelgedreven innovatie</category>
+        
+      </item>
+    
+  </channel>
+</rss>
