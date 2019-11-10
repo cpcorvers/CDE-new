@@ -4,8 +4,8 @@
 color:
   primary: ff6000 #ff6000 #fed136
   secondary: ff6000 #fec503
-  secondary-dark: 333
-  muted: 777
+  secondary-dark: 333 #333
+  muted: 777 #777
 
 # Font Families
 font:
@@ -19,7 +19,7 @@ font:
 # Site content
 images:
   # logo:         'img/logos/devakmakerij.png'
-  background:     '/img/websiteCDnE.gif' #'img/CdeWebsite-bg.png'
+  background:     '/_site/img/websiteCDnE.gif' #'img/CdeWebsite-bg.png'
 intro:
   lead-in: "Concept Development & Experimentation"
   # heading: "It's Nice To Meet You"
