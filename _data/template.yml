@@ -19,7 +19,7 @@ font:
 # Site content
 images:
   # logo:         'img/logos/devakmakerij.png'
-  background:     '/_site/img/websiteCDnE.gif' #'img/CdeWebsite-bg.png'
+  background:     'img/websiteCDnE.gif' #'img/CdeWebsite-bg.png'
 intro:
   lead-in: "Concept Development & Experimentation"
   # heading: "It's Nice To Meet You"
