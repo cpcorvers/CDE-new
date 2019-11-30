@@ -1,20 +1,20 @@
 ---
-title: Ijsbad te velde
-subtitle: Middel voor aggressieve koeling
+title: Draagbaar koelsysteem
+subtitle: Middel ten behoeve van militairen te velde om hitteletsel te behandelen
 layout: default
 modal-id: 1
 date: 2019-11-01
-closing-date: 31 december 2019
+closing-date: 13 januari 2020
 img: ijsbad.jpeg
 thumbnail: ijsbad.jpeg
 alt: Aggresieve koeling
 project-date: Q1 2020
 client: TGTF
 category: Middelgedreven innovatie
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-challenge: Tijdens de  opleiding komen de militairen in opleiding in aanraking met Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-participation: Elke inzending ontvangt feedback van experts over de toepasbaarheid van het ingestuurde prototype binnen de militaire context. <br><br>Voor de geselecteerde inzendingen stelt Defensie een budget beschikbaar als tegemoetkoming in de kosten voor de productie van een demonstrator. Deze geselecteerde inzendingen maken kans om door Defensie begeleid te worden in een zogenaamde experimenteeromgeving om de demonstrator verder te verbeteren.<br><br>Defensie blijft investeren in het verbeteren van de veiligheid en kwaliteit, door onder andere het verbeteren van de 'Eerste hulp bij hitteletsel'.<br><br>Een demonstrator maakt kans om op grotere schaal binnen Defensie, maar mogelijk ook bij buitenlandse Defensiepartners en hulpverleners te worden toegepast.
-timeline: De uitvraag staat open tot 01 januari 2020 gevolgd door een selectie in januri 2020. De eerste experimenten vinden plaats tijdens opleidingstrajecten in mei en juni 2020.
-criteria: Draagbaar tijdens de marstraining door de militair in opleiding, binnen enkele minuten operationeel en koelt dan minimaal enkele graden Celcius van de kerntempertuur van de oververhitte militair in opleiding.
+description: Als militair lever je vaak zware inspanningen. Van militairen in opleiding wordt gevraagd de fysieke en mentale grenzen op te zoeken. De wil om niet op te geven en door te zetten voor jezelf en voor je groep. Het risico op oververhitting en hitteziekte is hierbij aanwezig. <br><br>Hitteziekte kan iedereen overkomen. De ernst van de (weefsel)schade hangt af van de absolute waarde van de kerntemperatuur van het slachtoffer en de tijd dat iemand deze temperatuur is geweest. De kerntemperatuur dient door het koelen zo snel te dalen tot onder de 39 graden. <br><br>De meest effectieve manier van koelen is onderdompeling in een ijsbad, de gouden standaard. Indien dit direct na het optreden van de symptomen plaatsvindt kan volledig herstel worden verwacht en zal de hersteltijd aanzienlijk worden gereduceerd dan wanneer het (agressief) koelen niet of in een later stadium plaatsvindt.
+challenge: In de omstandigheden waarin de militair (in opleiding) optreedt of traint is het vaak niet mogelijk, om praktische redenen, een ijsbad ter plaatse te hebben. Een voertuig kan niet altijd snel ter plekke zijn en bovendien niet de gewenste koelcapaciteit leveren; de militairen in opleiding zijn aangewezen op de spullen die zij bij zich dragen. <br><br>Preventieve maatregelen en monitoren tijdens de inspanning dragen bij aan het reduceren van hitteziekte slachtoffers. Een effectieve en adequate behandeling moet dit completeren. <br><br>Onze onderzoeksvraag: <br><br>Hoe kan Defensie zorgdragen voor de militair die verschijnselen van hitteziekte heeft en zich in een omgeving bevindt waar adequate hulp, in de vorm van een effectief koelsysteem, niet voor handen is? <br><br>Wij denken aan een systeem dat met ijs en water een slachtoffer snel kan afkoelen.
+participation: Samen met u als ontwikkelaar en fabrikant, willen wij een draagbaar koelsysteem ontwikkelen dat in staat is om de kerntemperatuur van een slachtoffer van hitteziekte snel te laten dalen.
+timeline: De uitvraag staat open tot 13 januari 2020 gevolgd door een selectie. De eerste experimenten willen wij plannen tijdens opleidingstrajecten in mei en juni 2020.
+criteria: We denken aan een product of systeem met de volgende functionaliteiten: * De kerntemperatuur dient door het koelen zo snel mogelijk te dalen tot onder de 39 graden; * De kerntemperatuur van minimaal 1 persoon tot 3 graden kan koelen in maximaal 30 minuten
 tenderned: https://www.tenderned.nl/
 ---
