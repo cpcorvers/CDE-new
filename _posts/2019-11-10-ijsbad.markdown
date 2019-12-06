@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2019-11-01
 closing-date: 13 januari 2020
-img: koelsystem-mars.jpg
+img: koelsysteem-mars.jpg
 thumbnail: koelsysteem-wak-thumbnail.png
 alt: Aggresieve koeling
 tenderned: https://www.tenderned.nl/tenderned-tap/aankondigingen/181581
