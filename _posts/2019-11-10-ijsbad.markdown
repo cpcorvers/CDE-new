@@ -5,12 +5,12 @@ layout: default
 modal-id: 1
 date: 2019-11-01
 closing-date: 13 januari 2020
-img: koelsystem-mars.jpeg
-thumbnail: koelsysteem-wak.jpeg
+img: koelsystem-mars.jpg
+thumbnail: koelsysteem-wak-thumbnail.png
 alt: Aggresieve koeling
 tenderned: https://www.tenderned.nl/tenderned-tap/aankondigingen/181581
 negomatrix: https://platform.negometrix.com/PublicBuyerProfile/PublishedTenderInformation.aspx?isPublicProfile=false&tenderId=137407&tab=1&page=1&searchParam=&sortParam=Id&sortDirection=False
-flyer: koelsysteem-flyer.pdf
+download: koelsysteem-flyer.pdf
 project-date: Q1 2020
 client: TGTF
 category: Middelgedreven innovatie
