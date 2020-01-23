@@ -15,7 +15,7 @@ download: --
 project-date: --
 client: CLAS Projectteam Energie transitie
 category: --
-description: In missiegebieden wordt afval gegenereerd op militaire kampementen. Afvalverwerking een daarbij vaak een probleem omdat het in de omgeving ontbreekt aan een goede infrastructuur voor afvalbehandeling. Open afvalverbranding (burn pits) is geen optie vanwege de schadelijke emissies die erbij vrijkomen en transport terug naar Nederland is vanwege extra brandstofverbruik, kosten en personeel onwenselijk.
+description: In missiegebieden wordt afval gegenereerd op militaire kampementen. Afvalverwerking vormt daarbij vaak een probleem omdat het in de omgeving ontbreekt aan een goede infrastructuur voor afvalbehandeling. Open afvalverbranding (burn pits) is geen optie vanwege de schadelijke emissies die erbij vrijkomen en transport terug naar Nederland is vanwege extra brandstofverbruik, kosten en personeel onwenselijk.
   <br><br>Daarnaast heeft Defensie zich gecommitteerd aan het doel om in 2050 fossiel vrije operationele kampementen te hebben waar een ‘Waste2Energy’ systeem een bijdrage aan zou kunnen leveren. De energie die zo’n afvalverwerkingssysteem zou produceren zou gebruikt moeten kunnen worden op het kampement.
     <br><Br> Met een marktconsultatie willen wij inzicht krijgen in potentiele innovatieve oplossingen die kunnen bijdragen aan het afvalprobleem en aan de energievraag van een kampement.
 challenge: De omstandigheden in missiegebieden beperken de mogelijkheden van het goed verwerken van afval waarbij geen schadelijke emissies vrijkomen. Daarnaast moet het operationele kampement in z’n eigen energievraag voorzien.
